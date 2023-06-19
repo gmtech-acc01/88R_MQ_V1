@@ -1,0 +1,204 @@
+
+RUN::[ 7684 ]
+RUN::[ 12816 ]
+RUN::[ 8696 ]
+[8696-gSmsNotifier-GMFH01] 2019-07-21 10:41:40 
+[ SMS ] : +255788449030
+RUN::[ 13408 ]
+[13408-gSmsNotifier-GMFH01] 2019-07-21 13:30:55 
+[ SMS ] : +255788449030
+RUN::[ 14588 ]
+RUN::[ 4920 ]
+RUN::[ 13944 ]
+RUN::[ 14200 ]
+[13944-gSmsNotifier-GMFH01] 2019-07-21 13:49:08 
+[ SMS ] : +255788449030
+RUN::[ 13428 ]
+RUN::[ 13768 ]
+RUN::[ 14572 ]
+RUN::[ 7496 ]
+RUN::[ 12016 ]
+[12016-gSmsNotifier-MOVESMS01] 2019-07-21 14:29:12 
+[ SMS ] : +254741067804
+RUN::[ 14740 ]
+[14740-gSmsNotifier-MOVESMS01] 2019-07-21 14:30:35 
+[ SMS ] : +254741067804
+RUN::[ 13620 ]
+[13620-gSmsNotifier-MOVESMS01] 2019-07-21 14:31:55 
+[ SMS ] : +254741067804
+[13620-gSmsNotifier-MOVESMS01] 2019-07-21 14:33:32 
+[ SMS ] : +254741067804
+2019-07-21 14:36:58 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 14116 ]
+2019-07-21 14:38:10 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 11428 ]
+RUN::[ 14856 ]
+2019-07-21 14:40:24 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 14:40:24 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 11552 ]
+RUN::[ 3768 ]
+2019-07-21 14:40:55 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 14:40:55 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 9772 ]
+RUN::[ 7888 ]
+2019-07-21 14:42:06 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 1208 ]
+2019-07-21 14:43:08 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 12628 ]
+2019-07-21 14:43:14 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 15268 ]
+2019-07-21 14:50:20 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 14116 ]
+2019-07-21 14:52:33 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 7040 ]
+2019-07-21 14:53:09 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 13244 ]
+[13244-gSmsNotifier-GMNXM01] 2019-07-21 14:58:20 
+[ SMS ] : +255788449030
+[13244-gSmsNotifier-GMNXM01] 2019-07-21 15:03:04 
+[ SMS ] : +255788449030
+[13244-gSmsNotifier-GMNXM01] 2019-07-21 15:04:20 
+[ SMS ] : +255788449030
+[13244-gSmsNotifier-GMNXM01] 2019-07-21 15:04:51 
+[ SMS ] : +255788449030
+[13244-gSmsNotifier-GMNXM01] 2019-07-21 15:06:04 
+[ SMS ] : +255788449030
+2019-07-21 15:10:47 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 11216 ]
+2019-07-21 15:12:28 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 6704 ]
+2019-07-21 15:12:56 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 14772 ]
+[14772-gSmsNotifier-GMNXM01] 2019-07-21 15:15:24 
+[ SMS ] : +255788449030
+RUN::[ 13180 ]
+2019-07-21 15:22:02 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 15:22:10 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 9484 ]
+2019-07-21 15:23:19 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 15:23:20 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 15:23:33 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 15:23:45 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 15:24:49 pm 
+[ ERROR ] : cURL error 6: Could not resolve host: rest.nexmo.com (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+
+RUN::[ 15296 ]
+2019-07-21 15:25:19 pm 
+[ ERROR ] : cURL error 6: Could not resolve host: rest.nexmo.com (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+
+2019-07-21 15:25:19 pm 
+[ ERROR ] : cURL error 6: Could not resolve host: rest.nexmo.com (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+
+2019-07-21 15:25:19 pm 
+[ ERROR ] : cURL error 6: Could not resolve host: rest.nexmo.com (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+
+2019-07-21 15:25:19 pm 
+[ ERROR ] : cURL error 6: Could not resolve host: rest.nexmo.com (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+
+2019-07-21 15:25:19 pm 
+[ ERROR ] : cURL error 6: Could not resolve host: rest.nexmo.com (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+
+RUN::[ 15812 ]
+2019-07-21 16:14:02 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:14:03 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:14:04 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:14:05 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:14:06 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+RUN::[ 16748 ]
+2019-07-21 16:18:35 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:18:36 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:18:37 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:18:38 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:18:39 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:18:44 pm 
+[ ERROR ] : Missing api_key
+
+2019-07-21 16:25:56 pm 
+[ ERROR ] : Missing api_key
+
+RUN::[ 15604 ]
+2019-07-21 16:28:54 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:28:55 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:28:58 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:28:59 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:29:00 pm 
+[ ERROR ] : Non White-listed Destination - rejected
+
+2019-07-21 16:29:03 pm 
+[ ERROR ] : [HTTP 401] Unable to create record: Authenticate
+
+2019-07-21 16:29:04 pm 
+[ ERROR ] : [HTTP 401] Unable to create record: Authenticate
+
+2019-07-21 16:29:18 pm 
+[ ERROR ] : [HTTP 401] Unable to create record: Authenticate
